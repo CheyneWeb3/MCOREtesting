@@ -1,6 +1,4 @@
-Use this as the README to send with the zip.
 
-````markdown
 # Moolaah Core Deploy Fix
 
 This package is a cleaned Hardhat deployment setup for compiling and deploying the Moolaah core contracts, including both **Solidity** and **Vyper** contracts.
